@@ -5,5 +5,5 @@
 - My Lab's webpage: https://milab.uga.edu
 - My Google Scholar: https://scholar.google.com/citations?user=Z6qrWaoAAAAJ&hl=en
 - My CV: https://victor-philippe-cv.tiiny.site
-- My Notion Website: https://water-archeology-966.notion.site/Victor-s-Public-Notion-16d696356397803ca61cd50609c3a76b
+- My Notion Website: https://tinyurl.com/VictorPhilippe
 - In my free time, I enjoy playing soccer, judo, cooking, strength/performance training, and cheering on the Dawgs 
