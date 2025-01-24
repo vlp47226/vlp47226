@@ -6,5 +6,5 @@
 - My Google Scholar: https://scholar.google.com/citations?user=Z6qrWaoAAAAJ&hl=en
 - My CV: https://victor-philippe-cv.tiiny.site
 - My Notion Website: https://tinyurl.com/VictorPhilippe
-- My LinkedIn: https://www.linkedin.com/in/victor-philippe-873583150/
+- My LinkedIn: https://www.linkedin.com/in/victor-philippe/
 - In my free time, I enjoy playing soccer, judo, cooking, strength/performance training, and cheering on the Dawgs 
