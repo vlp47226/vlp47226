@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Victor
 - I am a PhD Student at the University of Georgia (2022-2026)
-- I did my Bachelors of Science in Computer Systems Engineering (Minor in Computer Science) at the University of Georgia (2018-2022)
-- I do research in Machine Learning, Deep learning, Biometrics, Human Computer Interaction, and other areas
+- I did my Bachelor of Science in Computer Systems Engineering (Minor in Computer Science) at the University of Georgia (2018-2022)
+- I do research in Machine Learning, Deep Learning, Biometrics, Human-Computer Interaction, and other areas
 - My Lab's webpage: https://milab.uga.edu
 - My Google Scholar: https://scholar.google.com/citations?user=Z6qrWaoAAAAJ&hl=en
 - My CV: https://victor-philippe-cv.tiiny.site
 - My Notion Website: https://tinyurl.com/VictorPhilippe
+- My LinkedIn: https://www.linkedin.com/in/victor-philippe-873583150/
 - In my free time, I enjoy playing soccer, judo, cooking, strength/performance training, and cheering on the Dawgs 
